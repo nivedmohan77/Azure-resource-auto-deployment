@@ -1,10 +1,6 @@
 # Dynamic Azure Infrastructure Deployment with Terraform
 
 This repository contains a **Terraform-based automation project** designed to deploy scalable Azure infrastructure. The configuration dynamically provisions a user-defined number of Virtual Networks (VNets) and Virtual Machines, along with a centralized Azure Bastion host for secure access.
-
----
-https://img.shields.io/badge/Microsoft-Azure
-
 ---
 
 ## 🚀 Project Features
