@@ -32,6 +32,13 @@ Before running this configuration, ensure you have the following:
 
 ---
 
+## 📊 Network diagram
+
+<img width="1024" height="1024" alt="diagram1" src="https://github.com/user-attachments/assets/99d9c44c-f3d3-45b0-b81c-6601c3e49cb4" />
+
+
+---
+
 ## 📖 How to Use
 
 1.  **Clone the Repository:**
